@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ارشادات on غرفة الفراغ</title>
+    <link>http://localhost:1313/categories/%D8%A7%D8%B1%D8%B4%D8%A7%D8%AF%D8%A7%D8%AA/</link>
+    <description>Recent content in ارشادات on غرفة الفراغ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ar</language>
+    
+    <lastBuildDate>Tue, 16 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/%D8%A7%D8%B1%D8%B4%D8%A7%D8%AF%D8%A7%D8%AA/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>اختر توزيعتك المثالية</title>
+      <link>http://localhost:1313/posts/choose-perfect-distro/</link>
+      <pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/choose-perfect-distro/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/choose-perfect-distro/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,8 @@
+{
+    "name": "Nothing - لاشيء",
+    "image" : "img/avatar.png",
+    "bio": "انسان بسيط",
+    "social": [
+        { "github": "https://github.com/nothingfr87" }
+    ]
+}
