@@ -4,7 +4,10 @@ date: 2025-12-16
 tags:
     - لينكس
 categories:
-    - ارشادات
+    - شروحات 
+
+authors:
+    - nothing
 ---
 
 # مقدمة

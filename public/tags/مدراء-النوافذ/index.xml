@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>مدراء النوافذ on غرفة الفراغ</title>
+    <link>http://localhost:1313/tags/%D9%85%D8%AF%D8%B1%D8%A7%D8%A1-%D8%A7%D9%84%D9%86%D9%88%D8%A7%D9%81%D8%B0/</link>
+    <description>Recent content in مدراء النوافذ on غرفة الفراغ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ar</language>
+    
+    <lastBuildDate>Wed, 17 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/%D9%85%D8%AF%D8%B1%D8%A7%D8%A1-%D8%A7%D9%84%D9%86%D9%88%D8%A7%D9%81%D8%B0/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>كيف تخصص سواي</title>
+      <link>http://localhost:1313/posts/customize-sway/</link>
+      <pubDate>Wed, 17 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/customize-sway/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/customize-sway/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

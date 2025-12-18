@@ -7,7 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ar</language>
     
-    <atom:link href="http://localhost:1313/authors/nothing/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/authors/nothing/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>كيف تخصص سواي</title>
+      <link>http://localhost:1313/posts/customize-sway/</link>
+      <pubDate>Wed, 17 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/customize-sway/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/customize-sway/featured.png" />
+    </item>
+    
+    <item>
+      <title>اختر توزيعتك المثالية</title>
+      <link>http://localhost:1313/posts/choose-perfect-distro/</link>
+      <pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/choose-perfect-distro/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/choose-perfect-distro/featured.png" />
+    </item>
     
   </channel>
 </rss>

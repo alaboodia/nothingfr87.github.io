@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>المنشورات on غرفة الفراغ</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in المنشورات on غرفة الفراغ</description>
+    <title>شروحات on غرفة الفراغ</title>
+    <link>http://localhost:1313/categories/%D8%B4%D8%B1%D9%88%D8%AD%D8%A7%D8%AA/</link>
+    <description>Recent content in شروحات on غرفة الفراغ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ar</language>
     
-    <lastBuildDate>Wed, 17 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/%D8%B4%D8%B1%D9%88%D8%AD%D8%A7%D8%AA/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>كيف تخصص سواي</title>

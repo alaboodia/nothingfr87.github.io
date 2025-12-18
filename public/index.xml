@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ar</language>
     
-    <lastBuildDate>Tue, 16 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>كيف تخصص سواي</title>
+      <link>http://localhost:1313/posts/customize-sway/</link>
+      <pubDate>Wed, 17 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/customize-sway/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/customize-sway/featured.png" />
+    </item>
     
     <item>
       <title>اختر توزيعتك المثالية</title>
